@@ -28,10 +28,11 @@ Smart ServiceHub is a Salesforce application built to manage installation servic
 
 | Component | Screenshot |
 |----------|------------|
-| Lightning App Page | ![App](screenshots/lightning_app_page.png) |
-| Flow Builder | ![Flow](screenshots/flow_setup.png) |
-| Report View | ![Report](screenshots/dashboard_view.png) |
-| Test Class Pass | ![Test](screenshots/test_result.png) |
+| Lightning App Page | ![App](screenshots/lightning_app_smartServiceHub.png) |
+| Flow Builder | ![Flow](screenshots/Flow_Builder.png) |
+| Report View | ![Report](screenshots/Report.png) |
+| Dashboard View | ![Dashboard].(screenshots/Dashboard.png) |
+| Test Class Pass | ![Test](screenshots/Test_Cases_Passed.png) |
 
 
 ## How to Use
